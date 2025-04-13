@@ -21,14 +21,5 @@ KEY FEATURES
 - **Customizable**: Easily change the number of turtles or add more graphics features for enhanced user experience.
 
 ------------------
-HOW TO RUN
-------------------
-1. Ensure **Python 3.x** is installed on your system.  
-   (Download Python from https://www.python.org/downloads/)
 
-2. Save the Python code as: **turtle_race.py**
-
-3. Open a terminal or command prompt and run the script by typing:
-   ```bash
-   python turtle_race.py
 
