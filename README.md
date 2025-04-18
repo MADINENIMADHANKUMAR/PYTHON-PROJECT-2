@@ -16,7 +16,7 @@ TECH STACK USED
 KEY FEATURES
 ------------------
 - **Interactive Design**: Users choose how many turtles will participate (2–10).
-- **Animated Race**: Turtles move at random speeds and race toward the finish line.
+- **Animated Race**: Turtles move at random distances and race toward the finish line.
 - **Winner Announcement**: The first turtle to reach the finish line wins, and the color of the winner is printed in the terminal.
 - **Customizable**: Easily change the number of turtles or add more graphics features for enhanced user experience.
 
